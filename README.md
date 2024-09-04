@@ -1,5 +1,13 @@
 ### <div align="center">I make systems and applications 💻 so your business goes 🚀</div>  
+
   
+## Objective  
+<blockquote>
+Don't do the job or do it as best as you can.<br><i>- Mohammad (peace be upon him)</i>
+</blockquote>
+
+<br/>  
+
 
 - 👓 I study computer science at Harvard 🎓  
   
@@ -87,16 +95,6 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkazimy&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-<blockquote>
-Don't do the job or do it as best as you can.<br><i>Mohammad (peace be upon him)</i>
-</blockquote>
-  <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
 
