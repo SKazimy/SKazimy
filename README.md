@@ -3,7 +3,7 @@
   
 ## Objective  
 <blockquote>
-Don't do the job or do it as best as you can.<br><i>- Mohammad Mustafa ibn Abdullah (peace be upon him)</i>
+Don't do the job or do it as best as you can.<br><i>- Mohammad Mustafa (peace be upon him)</i>
 </blockquote>
 
 <br/>  
