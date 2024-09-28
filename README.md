@@ -1,6 +1,6 @@
 ### <div align="center">I make systems and applications 💻 so your business goes 🚀</div>  
 
- 
+
 ## Objective  
 <blockquote>
 "Don't do the job or do it as best as you can."<br><i>- Mohammad Mustafa (pbuh)</i>
