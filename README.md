@@ -13,7 +13,9 @@
   
 
 - 💪 I study AI and Machine learning at AWS 🚜  
+
   
+<a href="https://drive.google.com/drive/u/1/folders/1ny_dTkOOYsBKpiNpIAhq9849BOipvp1b" target="_blank">PORTFOLIO</a>
 
 <br/>  
 
