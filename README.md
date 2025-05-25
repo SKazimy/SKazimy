@@ -16,7 +16,7 @@
 
   
 <br/> 
-<a href="https://drive.google.com/drive/u/1/folders/1ny_dTkOOYsBKpiNpIAhq9849BOipvp1b" target="_blank">PORTFOLIO</a>
+<a href="https://linktr.ee/SKazimy" target="_blank">My landing Page</a>
  
 
 ## My Skill Set  
