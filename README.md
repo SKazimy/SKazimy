@@ -76,13 +76,13 @@
 <a https://www.linkedin.com/in/bkazimy" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/BKazimy" target="_blank">
+<a href="https://github.com/SKazimy" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/16512342/besmella-kazimy" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/b_kazimy_" target="_blank">
+<a href="https://instagram.com/s_kazimy_" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/user/BKzimy" target="_blank">
@@ -95,7 +95,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SBazimy&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKazimy&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
 
 <br/>  
 
