@@ -3,7 +3,7 @@
 
 ## Objective  
 <blockquote>
-"Don't do it,<br>if you did do it as best as you can."<br><i>- Mohammad (pbuh)</i>
+"Don't do it;<br>if you did, do it as best as possible."<br><i>- Mohammad (pbuh)</i>
 </blockquote>
 
 <br/>  
